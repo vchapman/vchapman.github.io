@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Le Menu"
+subtitle: "php, javascript, HTML"
+description: "May 2017"
+category: "school"
+author: "Val Chapman"
+---
+<!-- Start Writing Below in Markdown -->
+* A business solution developed for restaurants to have their menu and ordering service linked directly to customer’s electronic device.
+
+* Has User Interface to allow for customization of menus by restaurants.
+
+* Allows for payment on the website using saved preferences.
+
+* Assisted students through their introductory to programming courses by holding small group meetings and workshops
+
+* Learned modeling and design of software architecture at the high level.

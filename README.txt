@@ -1,3 +1,3 @@
-Welcome to my Site:
+Welcome to my site.
 
-vchapman.github.io
+[vchapman.github.io](vchapman.github.io)
