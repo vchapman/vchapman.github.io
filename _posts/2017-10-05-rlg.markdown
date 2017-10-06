@@ -2,7 +2,7 @@
 layout: post
 title: "Rogue Like Game"
 subtitle: "C, C++, MakeFile"
-description: "May 2017"
+description: "Fall 2016"
 category: "school"
 author: "Val Chapman"
 ---

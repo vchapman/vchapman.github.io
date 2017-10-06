@@ -2,7 +2,7 @@
 layout: post
 title: "Salt Company App"
 subtitle: "Android Development"
-description: "Spring 2015"
+description: "Spring 2016"
 category: "school"
 author: "Val Chapman"
 ---
