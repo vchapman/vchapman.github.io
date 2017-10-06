@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Rogue Like Game"
+subtitle: "C, C++, MakeFile"
+description: "May 2017"
+category: "school"
+author: "Val Chapman"
+---
+<!-- Start Writing Below in Markdown -->
+Class 327
+
+* Built a Rogue Like Game in a command terminal using C and C++.
+
+* Randomly Generated Map, tunnels, and enemies.
+
+* Used Dijkstra's algorithm for AI.
+
+* Implemented saving of games,
+
+* Used makefiles to generate compiled code, and link C and C++ files.
+
