@@ -2,20 +2,47 @@
 layout: post
 title: "Rogue Like Game"
 subtitle: "C, C++, MakeFile"
-description: "Fall 2016"
+description: "Spring 2016"
 category: "school"
 author: "Val Chapman"
 ---
 <!-- Start Writing Below in Markdown -->
-Class 327
+<h2> CS 327: Advanced Programming Techniques </h2>
+
+<h1> Outcomes: </h1>
 
 * Built a Rogue Like Game in a command terminal using C and C++.
 
 * Randomly Generated Map, tunnels, and enemies.
 
-* Used Dijkstra's algorithm for AI.
+* Used Dijkstra's algorithm for AI path mapping.
 
 * Implemented saving of games,
 
 * Used makefiles to generate compiled code, and link C and C++ files.
 
+<h1> Description Of Project: </h1>
+
+<p> In this course, we had a semester long project of developing a rogue like game to be run in a terminal. The project
+was to have randomly generated rooms and hallways, a player character (pc), no player characters (npc), and a fog of war.
+We used Dijkstra's algorithm to have path mapping for the npcs. We were required to read and write save files to the disk.
+Npcs were parsed from a file and then randomly generated in game. This allowed for the pc to write their own npcs to fight.
+The player character also had armor and equipment that they could find around the map and equip.</p>
+
+<h1> Learning Outcomes: </h1>
+<p> This project was my first semester long project that took the form of iteration. Each week we were required to add a
+single new feature to the game. This reinforced the idea that breaking down a large project into smaller parts allow for
+a large project to be completed in easier steps. I also learned about make files in this course, and how I can link multiple
+c files together to allow for more organization. Finally, I learned how to use Dijkstra's algorithm for a path finding solution
+to allow for a simple AI. Due to the project continually building on itself, the professor gave out solutions for the past week
+in case students did not like their grade, or wanted to make sure they were using a completely correct solution. I used the professor's
+solution for a few of the assignments later in the year, this gave me the opportunity to work with a large portion of code I
+had not developed. While this provided many difficulties this proved valuable in learning to work with others code. </p>
+
+<h1> What I liked most: </h1>
+<p> Developing a game in the command line terminal was a project vastly different than most of the projects I had worked on
+up to this point. Working in the terminal for a whole semester greatly increased my abilities to use the command line.
+With the product being a game, and my interest in gaming, this project allowed me to take my own experiences and implement them
+into a project and refine my project, to make it different from the other students in the course. One way I did this was
+implementing a couch-coop option into my rlg. This allowed for two players to be at one computer and switch control of their
+pcs.</p>

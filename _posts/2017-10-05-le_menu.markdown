@@ -7,7 +7,9 @@ category: "school"
 author: "Val Chapman"
 ---
 <!-- Start Writing Below in Markdown -->
-Class 339
+<h2> SE 339: Software Architecture and Design </h2>
+
+<h1> Outcomes: </h1>
 
 * A business solution developed for restaurants to have their menu and ordering service linked directly to customer’s electronic device.
 
@@ -15,6 +17,28 @@ Class 339
 
 * Allows for payment on the website using saved preferences.
 
-* Assisted students through their introductory to programming courses by holding small group meetings and workshops
-
 * Learned modeling and design of software architecture at the high level.
+
+<h1> Description Of Project: </h1>
+
+<p> This course focus was on the design and architecture of a project. My team decided to develop a web integrated ordering
+ system for dinning restaurants. The main goal of the project, was to design our project's architecture and then try to implement
+ it, so that we could see areas our architecture could improve. Our project designed to allow for customers to have one account
+ with out app that stored their payment information. Then restaurants could register with us, and set up their menus using our
+ website. Then when customers came to their restaurant they could order through our website, and the restaurant would receive
+ the order notice. Then the restaurant would prepare and deliver to the table. Finally customers would click pay on our device and the
+ restaurant would receive the funds.</p>
+
+<h1> Learning Outcomes: </h1>
+<p> The goal of this project, was to learn how to develop an architecture for a project. My team developed use case diagrams,
+ component diagrams, class diagrams and quality attributes. This was the first course I took at Iowa State to focus on Architecture
+ and how it works in my projects. We were required to develop many diagrams before we started development of our project. This
+ made the development process very smooth, because we had written out our use cases, requirements and components. This showed me
+ the value of proper technical planning can smooth out the development process. </p>
+
+<h1> What I liked most: </h1>
+<p> This project proved valuable to me in the area of architecture development. Many of the projects I developed at Iowa State
+ did not require any form of formal architecture design before the development started. This assignment proved the value
+ of such design. This project was also an enjoyment, because this idea of a computer taking orders at restaurants is becoming
+ more popular and implementing my own design of such a system allowed me to see what some of these companies may be going through
+ in the form of design decisions.</p>
