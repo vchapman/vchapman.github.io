@@ -1,0 +1,63 @@
+.site-header {
+   height: 300px;
+   width: auto;
+   background-image:url('/img/madison_skyline.jpg');
+   background-size:100% 100%;
+   background-repeat: no-repeat;
+   margin:0;
+   padding:0;
+}
+
+.site-title{
+  padding: 1em;
+}
+
+.site-nav .page-link{
+  color:#FFFFFF;
+}
+
+.site-title, .site-title:visited {
+    color: #FFFFFF;
+}
+
+.top-right{
+  padding: 1em;
+}
+
+.experience-title{
+  font-size: 1.5em !important;
+  color: #008080;
+}
+
+.experience-subtitle{
+  font-size: 1em !important;
+  color: #111;
+}
+
+.experience-header{
+  font-size: 2em !important;
+  color: #111;
+}
+
+.bg-linked-svg {
+  width: 100%;
+  background-image: url("/img/linkedin.svg");
+  background-size: cover;
+  height: 0;
+  padding: 0; /* reset */
+  padding-bottom: 92%;
+  border: thin dotted darkgrey;
+}
+
+.bg-git-svg {
+  width: 100%;
+  background-image: url("/img/github.svg");
+  background-size: cover;
+  height: 0;
+  padding: 0; /* reset */
+  padding-bottom: 92%;
+  border: thin dotted darkgrey;
+}
+figure > div {
+  margin: 1em auto;
+}

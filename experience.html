@@ -6,21 +6,18 @@ category: "Experience"
 
 {% for post in site.posts %}
 {% if post.category == "Experience" %}
-<div class="post-preview">
+<div class="experience">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">
+        <h2 class="experience-title">
           {{ post.title }}
         </h2>
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        <h4 class="post-subtitle">
-          {{post.description}}
-        </h4>
     </a>
-	<div class="notepad-index-post-tags" style="">
-		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
-	</div>
+    <h3 class="experience-subtitle">
+        {{ post.subtitle }}
+    </h3>
+    <h4 class="experience-subtitle">
+      {{post.description}}
+    </h4>
 </div>
 {% endif %}
 {% endfor %}
