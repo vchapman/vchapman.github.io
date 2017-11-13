@@ -1,8 +1,8 @@
 .site-header {
-   height: 25em;
+   height: 15em;
    width: auto;
    background-image:url('/img/madison_skyline.jpg');
-   background-position-y: -350px;
+   background-position-y: -400px;
    background-repeat: no-repeat;
    margin:0;
    padding:0;
@@ -35,6 +35,18 @@
 
 .footer-col-2 {
   width: 50px
+}
+
+.index-div{
+    position:relative;
+    height: 100%;
+    width:100%;
+}
+
+.index-img {
+  vertical-align: middle;
+  margin-left: 85%;
+  margin-bottom: -58%;
 }
 
 .top-right{
