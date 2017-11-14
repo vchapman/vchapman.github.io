@@ -42,3 +42,5 @@ author: "Val Chapman"
  of such design. This project was also an enjoyment, because this idea of a computer taking orders at restaurants is becoming
  more popular and implementing my own design of such a system allowed me to see what some of these companies may be going through
  in the form of design decisions.</p>
+
+ <p>You can find the implementation of Le Menu on my github account linked at the bottom of this page.</p>
