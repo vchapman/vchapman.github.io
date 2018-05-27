@@ -2,7 +2,7 @@
 layout: post
 title: "Iowa State Software Engineering Department"
 subtitle: "Peer Mentor"
-description: "August 2016 - Present"
+description: "August 2016 - May 2018"
 category: "Experience"
 author: "Val Chapman"
 ---
