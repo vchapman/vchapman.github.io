@@ -2,7 +2,7 @@
 layout: post
 title: "Software Engineer Intern"
 subtitle: "Workiva"
-description: "December 2016 - Present"
+description: "December 2016 - June 2018"
 category: "Experience"
 author: "Val Chapman"
 ---
